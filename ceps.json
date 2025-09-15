@@ -1,15 +1,15 @@
 {
-    "cep": "01310-100",
-    "logradouro": "Avenida Paulista",
-    "complemento": "de 612 a 1510 - lado par",
+    "cep": "60135-210",
+    "logradouro": "Travessa Hilnete",
+    "complemento": "",
     "unidade": "",
-    "bairro": "Bela Vista",
-    "localidade": "São Paulo",
-    "uf": "SP",
-    "estado": "São Paulo",
-    "regiao": "Sudeste",
-    "ibge": "3550308",
-    "gia": "1004",
-    "ddd": "11",
-    "siafi": "7107"
+    "bairro": "Dionisio Torres",
+    "localidade": "Fortaleza",
+    "uf": "CE",
+    "estado": "Ceará",
+    "regiao": "Nordeste",
+    "ibge": "2304400",
+    "gia": "",
+    "ddd": "85",
+    "siafi": "1389"
 }
